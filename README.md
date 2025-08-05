@@ -8,6 +8,8 @@ That’s where **Rex** comes in — spelled R-E-X, a play on the word “recomme
 
 Rex is a lightweight, clean, and personal automation tool designed to solve that problem. It’s your private vault for cultural gems — making it effortless to quickly log, organize, and manage media suggestions so you never forget a great one again.
 
+🔗 [Open Rex on GitHub Pages](https://willco8.github.io/rex-app/)
+
 ---
 
 ## ✨ Features
